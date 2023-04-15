@@ -1,0 +1,27 @@
+# asdf
+- $\leftarrow$                          `\leftarrow`
+- $\rightarrow$                         `\rightarrow`
+- $\uparrow$                            `\uparrow`
+- $\downarrow$                          `\downarrow`
+- $\leftrightarrow$                     `\leftrightarrow`
+- $\nleftarrow$                         `\nleftarrow`
+- $\nrightarrow$                        `\nrightarrow`
+- $\nuparrow$                           `\nuparrow`
+- $\ndownarrow$                         `\ndownarrow`
+- $\nleftrightarrow$                    `\nleftrightarrow`
+- $\longrightarrow$                     `\longrightarrow`
+- $\longleftarrow$                      `\longleftarrow`
+- $\mapsto$                             `\mapsto`
+- $\Leftarrow$                          `\Leftarrow`
+- $\Rightarrow$                         `\Rightarrow`
+- $\Uparrow$                            `\Uparrow`
+- $\Downarrow$                          `\Downarrow`
+- $\Leftrightarrow$                     `\Leftrightarrow`
+- $\Leftrightarrow$                     `\Leftrightarrow`
+- $\nLeftarrow$                         `\nLeftarrow`
+- $\nRightarrow$                        `\nRightarrow`
+- $\nLeftrightarrow$                    `\nLeftrightarrow`
+- $\nLeftrightarrow$                    `\nLeftrightarrow`
+- $\Longleftrightarrow$                 `\Longleftrightarrow`
+- $\Longleftarrow$                      `\Longleftarrow`
+- $\Longrightarrow$                     `\Longrightarrow`
